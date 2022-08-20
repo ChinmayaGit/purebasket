@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67988531272",
+    "firebase_url": "https://purebasket-e1cd8.firebaseio.com",
+    "project_id": "purebasket-e1cd8",
+    "storage_bucket": "purebasket-e1cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67988531272:android:0fb2d7985fd63c44f6107d",
+        "android_client_info": {
+          "package_name": "com.ecsels.purebasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67988531272-kmtst0ebpvgvvd15dgdm09fl63rt9hjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecsels.purebasket",
+            "certificate_hash": "85087a9818f91e45a03a59ee997ab9c2460d0a22"
+          }
+        },
+        {
+          "client_id": "67988531272-8sngfrok92nimss1bofombvgrmj7is11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrI4Cq2GPEiU6lSt09d-WZHkSfWEvwbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67988531272-8sngfrok92nimss1bofombvgrmj7is11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
