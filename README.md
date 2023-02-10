@@ -1,4 +1,4 @@
-# purebasket
+# Purebasket
 
 A new Flutter application.
 
